@@ -2,6 +2,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+
 .header {
     height: 650px;
     background-image: url(donation13.jpg);
@@ -11,8 +12,8 @@ body {
 }
 
 .donate-section-all {
-    margin-left: 5em;
-    margin-right: 5em;
+    margin-left: 10em;
+    margin-right: 10em;
 }
 
 .head-intro {
@@ -176,4 +177,60 @@ body {
 
 .conti-2-d {
     padding-left: 13em;
+}
+
+.update-h {
+    font-size: 2em;
+    line-height: 0.5em;
+}
+
+
+
+.input-box-email {
+    text-align: center;
+    padding: 15px 60px;
+    border: none;
+    background-color: rgba(211, 205, 205, 0.938);
+}
+
+
+.update-s {
+    text-align: center;
+    margin-bottom: 7em;
+}
+
+.email-and-subs {
+    display: flex;
+    margin-left: 8em;
+}
+
+.e-and-s-div {
+    padding: 50px 100px;
+    background-color: rgb(253, 238, 220);
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+
+
+}
+
+.humble {
+    padding: 40px 0px 0px 0px;
+    font-size: 2em;
+    color: tomato;
+    font-family: 'Lobster', cursive;
+
+}
+
+.humble-bottom {
+    margin-bottom: 0px 0px 0px;
+}
+
+.humble-bottom {
+    font-family: 'Manrope', sans-serif;
 }
