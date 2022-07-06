@@ -11,8 +11,8 @@ body {
 }
 
 .donate-section-all {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 5em;
+    margin-right: 5em;
 }
 
 .head-intro {
@@ -33,9 +33,9 @@ body {
     padding: 0.5em 0em 1.5em 0em;
 }
 
-.top-button {
+.all-button {
     text-decoration: none;
-    background-image: linear-gradient(rgb(247, 38, 31), rgb(245, 56, 22));
+    background-image: linear-gradient(rgb(247, 38, 31), rgb(255, 38, 0));
     padding: 10px 30px;
     border-radius: 5px;
     color: white;
@@ -110,14 +110,18 @@ body {
 
 .donate-plan-section {
     display: flex;
+
 }
 
 .donate-plan-mid {
     padding: 50px 50px;
     text-align: justify;
-    margin-left: 7px;
-    margin-right: 7px;
     margin-bottom: 7em;
+}
+
+#donate-2 {
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .plan1 {
@@ -134,11 +138,10 @@ body {
 
 .conti-1 {
     display: flex;
-    padding: 70px 70px;
 }
 
 .conti-1 img {
-    width: 50%;
+    width: 40%;
 }
 
 #conti-1-p {
@@ -151,10 +154,26 @@ body {
     font-size: 2em;
 }
 
-.conti-2-d {
+.conti-2 {
     display: flex;
+    margin-bottom: 7em;
+    padding-top: 5em;
 }
 
 .conti-2 img {
-    width: 50%;
+    width: 40%;
+}
+
+.conti-2-h {
+    font-size: 2em;
+}
+
+#conti-2-p {
+    text-align: justify;
+    margin-bottom: 2em;
+
+}
+
+.conti-2-d {
+    padding-left: 13em;
 }
