@@ -1,0 +1,37 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    height: 650px;
+    background-image: url(donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.head-intro {
+    text-align: center;
+    padding: 10%;
+}
+
+.head-text-bold {
+    color: white;
+    text-align: center;
+    font-size: 3em;
+    line-height: 0.5em;
+}
+
+.head-text-small {
+    color: white;
+    text-align: center;
+    padding: 0.5em 0em 1.5em 0em;
+}
+
+.top-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(247, 38, 31), rgb(245, 56, 22));
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
